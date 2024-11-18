@@ -38,6 +38,21 @@ This prototype represents the first step in bringing this idea to life, showcasi
 
 ---
 
+## 📸 **Screenshots**
+**HOMEPAGE:**
+
+![image](https://github.com/user-attachments/assets/3a36f1c4-9b87-4a6c-bf93-f33317793ca1)
+
+**STUDENT'S DASHBOARD:**
+
+![image](https://github.com/user-attachments/assets/502ed9d4-6924-4615-b163-94c5791fa3d0)
+
+**MENTOR'S DASHBOARD:**
+
+![image](https://github.com/user-attachments/assets/52b2afc6-519a-4ad3-bd40-d5dbe8905213)
+
+---
+
 ## 📂 **Folder Structure**
 ```plaintext
 Univoice/
