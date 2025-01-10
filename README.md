@@ -54,12 +54,12 @@ This prototype represents the first step in bringing this idea to life, showcasi
 ---
 
 ## 📂 **Folder Structure**
-```plaintext
+```
 Univoice/
+├── index.html                 # Main homepage file
 ├── homepage/
-│   ├── homepage.html           # Main homepage file
-│   ├── styles.css              # CSS file for homepage styling
-│   └── script.js               # JavaScript file for homepage interactivity
+│   ├── styles.css             # CSS file for homepage styling
+│   └── script.js              # JavaScript file for homepage interactivity
 ├── mentorDashboard/
 │   ├── mentorDashboard.html    # Mentor dashboard file
 │   ├── styles.css              # CSS file for mentor dashboard
