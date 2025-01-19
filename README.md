@@ -25,7 +25,7 @@ Explore the [Website Prototype](https://dhyeyshah23.github.io/Student-Ecounselli
 - **Homepage**: The central hub for users to learn about Univoice.
 - **Mentor Dashboard**: A dedicated space for mentors to guide and interact with students.
 - **Student Dashboard**: Tailored for students to track progress and connect with mentors.
-- **Signup Page**: Seamlessly onboard students into the platform.
+- **Signup Pages**: Seamlessly onboards students and mentors into the platform.
 - **Network Page**: A place for collaboration and growth within the Univoice community.
 
 Click the link above to experience Univoice for yourself!
