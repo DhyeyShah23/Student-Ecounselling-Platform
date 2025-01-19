@@ -16,6 +16,22 @@ This prototype represents the first step in bringing this idea to life, showcasi
 
 ---
 
+## Website Prototype
+Explore the [Website Prototype](https://dhyeyshah23.github.io/Student-Ecounselling-Platform) to see the live project in action.
+
+---
+
+## Features:
+- **Homepage**: The central hub for users to learn about Univoice.
+- **Mentor Dashboard**: A dedicated space for mentors to guide and interact with students.
+- **Student Dashboard**: Tailored for students to track progress and connect with mentors.
+- **Signup Page**: Seamlessly onboard students into the platform.
+- **Network Page**: A place for collaboration and growth within the Univoice community.
+
+Click the link above to experience Univoice for yourself!
+
+---
+
 ## 🔧 **Features of the Prototype**
 - **Homepage**: A welcoming page summarizing the platform's purpose and functionality.
 - **Student Dashboard**: Allows students to manage their mentorship sessions, explore courses, and track progress.
@@ -77,3 +93,4 @@ Univoice/
 │   ├── styles.css              # CSS file for network page
 │   └── script.js               # JavaScript file for network page
 └── README.md                   # Project documentation
+```
